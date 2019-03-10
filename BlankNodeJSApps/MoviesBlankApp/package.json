@@ -1,0 +1,9 @@
+{
+  "name": "movies-blank-app",
+  "version": "0.0.0",
+  "description": "MoviesBlankApp",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
